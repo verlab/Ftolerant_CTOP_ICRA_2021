@@ -1,0 +1,32 @@
+######### S U M M A R Y ########
+Nodes: 123
+Agents: 3
+Utility Planned: 57773.347098
+Utility Executed: 19628.942020
+Total time: 0.000391
+
+######### EXECUTED ROUTES ########
+Agent: 0
+Fails: at 25.00% of the planned path
+Planned Reward: 57132.354812
+Collected Reward: 17813.219276
+Path cost: 23.502123
+Budget: 60.750000
+Path executed: 0, 37, 49, 60, 59, 48, 47, 122
+--------------------------------
+Agent: 1
+Fails: No
+Planned Reward: 326.472149
+Collected Reward: 553.330223
+Path cost: 58.785844
+Budget: 60.750000
+Path executed: 0, 7, 5, 14, 24, 34, 45, 46, 56, 67, 78, 89, 90, 101, 111, 112, 114, 103, 91, 92, 93, 104, 94, 83, 95, 106, 122
+--------------------------------
+Agent: 2
+Fails: No
+Planned Reward: 314.520137
+Collected Reward: 1262.392521
+Path cost: 56.423669
+Budget: 60.750000
+Path executed: 0, 4, 3, 2, 1, 12, 23, 25, 27, 29, 30, 31, 20, 19, 8, 10, 32, 43, 44, 55, 98, 107, 117, 122
+--------------------------------
